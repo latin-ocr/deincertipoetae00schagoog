@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deincertipoetae00schagoog_0268.png"; bbox 0 0 2946 4734; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 354 1585 1207 2115">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 354 1585 1207 2115">
+     <span class='ocr_line' id='line_1_1' title="bbox 355 1585 955 1686; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 355 1585 636 1685; x_wconf 81' lang='lat' dir='ltr'><strong>ARTHURO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 675 1586 955 1686; x_wconf 80' lang='lat' dir='ltr'>LUDWIOH</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 355 1799 833 1900; baseline 0.002 -3"><span class='ocrx_word' id='word_1_3' title='bbox 355 1799 653 1900; x_wconf 79' lang='lat' dir='ltr'><strong>LUDOVIOO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 691 1801 833 1899; x_wconf 79' lang='grc' dir='ltr'>ιΙΕΕΡ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 354 2014 1207 2115; baseline -0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 354 2015 633 2115; x_wconf 79' lang='lat' dir='ltr'>AUGUSTO</span> <span class='ocrx_word' id='word_1_6' title='bbox 671 2014 1037 2114; x_wconf 83' lang='lat' dir='ltr'>BRINKMANN</span> <span class='ocrx_word' id='word_1_7' title='bbox 1204 2021 1207 2025; x_wconf 74' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1478 4734">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1478 4734">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1478 4734; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1478 4734; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
